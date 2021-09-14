@@ -14,14 +14,14 @@ This project is demonstration of how a professional repo should look like and be
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Hello Microverse!](https://amrhub.github.io/Hello-Microverse-Project/)
 
 ## Authors
 
-👤 **Author**
+👤 **Amr Ahmed**
 
-- GitHub: [@githubhandle](https://github.com/Amrhub/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amr-ahmed-655420191/)
+- GitHub: [@Amrhub](https://github.com/Amrhub/)
+- LinkedIn: [Amr Ahmed](https://www.linkedin.com/in/amr-ahmed-655420191/)
 
 ## 🤝 Contributing
 
@@ -35,7 +35,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse helped/guided me bulding this project
+- Microverse helped/guided me building this project
 - Inspiration
 
 ## 📝 License

@@ -1,59 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> First Microverse project
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project is demonstration of how a professional repo should look like and best practice of how we work at Microverse during entire program and as a software developer
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Hello Microverse!](https://amrhub.github.io/Hello-Microverse-Project/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
+To setup the webpage in your local up in the repo page:
+click on code (dropdown list) > Download as ZIP
 
 ### Deployment
 
-
+To run the project open folder (after extraction) then run index.html
 
 ## Authors
 
-👤 **Author1**
+👤 **Amr Ahmed**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Amrhub](https://github.com/Amrhub/)
+- LinkedIn: [Amr Ahmed](https://www.linkedin.com/in/amr-ahmed-655420191/)
 
 ## 🤝 Contributing
 
@@ -67,9 +48,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse helped/guided me building this project
 - Inspiration
-- etc
 
 ## 📝 License
 
